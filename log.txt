@@ -1,0 +1,17 @@
+Date: 2019-08-01 23:52:46.198589 : 
+1 : aa , WorkTime: 4.0 , Tip Collected: 23.0 , Tip: 27.200000000000003 
+2 : bb , WorkTime: 6.0 , Tip Collected: 45.0 , Tip: 40.8 
+________________________
+Date: 2019-08-01 23:55:41.869997 : 
+1 : ee , WorkTime: 4.0 , Tip Collected: 56.00 , Tip: 34.33 
+2 : rr , WorkTime: 8.0 , Tip Collected: 47.00 , Tip: 68.67 
+________________________
+Date: 2019-08-01 23:57:09.867516 : 
+1 : gg , WorkTime: 4.0 , Tip Collected: 23.00 , Tip: 23.00 
+________________________
+
+Date: 2019-08-05 20:58:06.281237 : 
+1 : inon , WorkTime: 5.0 , Tip Collected: 120.00 , Tip: 116.88 
+2 : ariel , WorkTime: 3.0 , Tip Collected: 67.00 , Tip: 70.12 
+________________________
+
